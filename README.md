@@ -19,7 +19,7 @@
 </ul>
 <h2>Instalacion</h2>
 <ol>
-  <li>Clonar el repositorio <code>git clone </li>
-  <li>Congigurara base de datos: crear una base de datos MySQL, actualizar las propiedades del archivo <code>application.properties</li>
-    <li>Compliar y ejecutar la aplicacion</li>
+  <li>Clonar el repositorio <code>git clone https://github.com/CristianFuertes97/ChallengerForoHub.git</li>
+  <li>Congigurar la base de datos: crear una base de datos MySQL, actualizar las propiedades del archivo <code>application.properties</li>
+  <li>Compliar y ejecutar la aplicacion</li>
 </ol>
